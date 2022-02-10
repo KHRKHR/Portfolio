@@ -6,4 +6,4 @@
 
 
 https://khrkhr.github.io/Portfolio/
-![이미지 5](https://user-images.githubusercontent.com/97592294/153395412-2744c2dd-03ac-41da-b47b-54f845be5a1b.png)
+![5](https://user-images.githubusercontent.com/97592294/153415700-76c1aefe-2f66-4a9a-8b32-fa4e3a214559.png)
