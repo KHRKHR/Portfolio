@@ -1,4 +1,4 @@
-# HYERIM KIM's Portfolio
+# Hyerim Kim's Portfolio
 
 
 반갑습니다!</br>
