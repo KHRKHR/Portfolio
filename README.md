@@ -6,4 +6,3 @@
 
 
 https://khrkhr.github.io/Portfolio/
-![5](https://user-images.githubusercontent.com/97592294/153415700-76c1aefe-2f66-4a9a-8b32-fa4e3a214559.png)
